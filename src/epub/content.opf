@@ -19,6 +19,7 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
@@ -100,17 +101,79 @@
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/illustration-1.svg" id="illustration-1.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-2.svg" id="illustration-2.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-3.svg" id="illustration-3.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-4.svg" id="illustration-4.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-5.svg" id="illustration-5.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-6.svg" id="illustration-6.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-7.svg" id="illustration-7.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-8.svg" id="illustration-8.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-9.svg" id="illustration-9.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-10.svg" id="illustration-10.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-11.svg" id="illustration-11.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-12.svg" id="illustration-12.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-13.svg" id="illustration-13.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-14.svg" id="illustration-14.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-15.svg" id="illustration-15.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-16.svg" id="illustration-16.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-17.svg" id="illustration-17.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-18.svg" id="illustration-18.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-19.svg" id="illustration-19.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-20.svg" id="illustration-20.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-21.svg" id="illustration-21.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-22.svg" id="illustration-22.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-23.svg" id="illustration-23.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-24.svg" id="illustration-24.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-25.svg" id="illustration-25.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-26.svg" id="illustration-26.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-27.svg" id="illustration-27.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-28.svg" id="illustration-28.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-29.svg" id="illustration-29.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-30.svg" id="illustration-30.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-misdeal.xhtml" id="a-misdeal.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/frontispiece.xhtml" id="frontispiece.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/great-uncle-mccarthy.xhtml" id="great-uncle-mccarthy.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/in-the-curranhilty-country.xhtml" id="in-the-curranhilty-country.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/lisheen-races-second-hand.xhtml" id="lisheen-races-second-hand.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/occasional-licenses.xhtml" id="occasional-licenses.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/oh-love-oh-fire.xhtml" id="oh-love-oh-fire.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/philippas-fox-hunt.xhtml" id="philippas-fox-hunt.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-holy-island.xhtml" id="the-holy-island.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-house-of-fahy.xhtml" id="the-house-of-fahy.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-policy-of-the-closed-door.xhtml" id="the-policy-of-the-closed-door.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-waters-of-strife.xhtml" id="the-waters-of-strife.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/trinkets-colt.xhtml" id="trinkets-colt.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="frontispiece.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="great-uncle-mccarthy.xhtml"/>
+		<itemref idref="in-the-curranhilty-country.xhtml"/>
+		<itemref idref="trinkets-colt.xhtml"/>
+		<itemref idref="the-waters-of-strife.xhtml"/>
+		<itemref idref="lisheen-races-second-hand.xhtml"/>
+		<itemref idref="philippas-fox-hunt.xhtml"/>
+		<itemref idref="a-misdeal.xhtml"/>
+		<itemref idref="the-holy-island.xhtml"/>
+		<itemref idref="the-policy-of-the-closed-door.xhtml"/>
+		<itemref idref="the-house-of-fahy.xhtml"/>
+		<itemref idref="occasional-licenses.xhtml"/>
+		<itemref idref="oh-love-oh-fire.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

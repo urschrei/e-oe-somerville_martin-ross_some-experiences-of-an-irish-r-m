@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="oh-love-oh-fire.xhtml">
+		<ignore code="t-008">
+			<line>149</line>
+			<reason>The apostrophe that ends “Weddin’” is followed by a hair space and the closing quotation mark of the song title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

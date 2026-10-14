@@ -42,6 +42,9 @@
 		<meta property="term" refines="#subject-3">sh2007102051</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Irish R.M.</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta property="schema:abstract">An army major takes up a post as a magistrate in the West of Ireland, where his landlord, his servants, and the local people outwit him at every turn.</meta>
 		<dc:description>
 			&lt;p&gt;Major Sinclair Yeates obtains a post as Resident Magistrate in the West of Ireland. He rents a half-repaired country house from Flurry Knox, a young horse dealer and master of the local hounds who, as Yeates puts it, looks “like a stable boy among gentlemen, and a gentleman among stable boys.” Yeates expects to uphold the law. Instead, Flurry and his many relations draw him into horse deals, hunts, race meetings, and dances, and Yeates is usually the last to understand what is happening.&lt;/p&gt;
